@@ -1,8 +1,8 @@
 #!/bin/bash
 
  
-
-KEY="AIzaSyDm8KPJCRmszwkD8TS2A2_fIehBwvwyiBc"
+# IMPORTANT: put your API-Key here
+KEY=""
 
 URL="https://www.google.com/speech-api/v2/recognize?output=json&lang=de-de&key=$KEY"
 
